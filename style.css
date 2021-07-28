@@ -1,0 +1,61 @@
+table{
+    border-collapse:collapse;
+    width:95%;
+  }
+  th{ 
+    color:white;
+    font-size:xxx-large;
+    text-align:center;
+    border-bottom:none;
+    font-family:arial black;
+  }
+  
+  h1{
+    color:white;
+    font-family:arial black;
+    font-size:xx-large;
+    line-height:0.001;
+    padding-right:50px;
+  }
+  h5{
+    color:white;
+    font-family:arial;  
+    line-height:1;
+  }
+  
+  
+  p{
+    
+    font-family:arial black;
+    color:white;
+    
+  }
+  li{
+    color:white;
+  }
+  i{
+    color:white;
+    font-size:large;
+  }
+  ul{
+    font-family:calibri;
+    
+  }
+  img{
+    width:100px;
+    padding:30px;
+    padding-right:0.1px;
+    padding-left:30px;
+  }
+  td
+  {
+    border-left:none;
+    border-right:none;
+    border-top:none;
+    border-bottom-color:grey;
+    
+  }
+  
+  
+  
+  
